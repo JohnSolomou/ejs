@@ -5,6 +5,10 @@
   "engines": {
     "node": "14.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnSolomou/ejs.git"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
